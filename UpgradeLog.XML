@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ingreso producto">
+</Property><Property Name="Solution File" Value="C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Ingreso producto.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Ingreso producto.suo">
+</Property><Property Name="Date" Value="viernes, 30 de noviembre de 2007">
+</Property><Property Name="Time" Value="15:14 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ingreso producto.sln" Description="File successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Ingreso producto.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ingreso producto.suo" Description="File successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Ingreso producto.suo">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Ingreso producto.vbproj" Description="Project file successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Ingreso producto.vbproj">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Ingreso producto.vbproj.user" Description="Project user file successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Ingreso producto.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Form1.vb" Description="File successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Form1.resx" Description="File successfully backed up as C:\Users\Sebastian\Documents\Visual Studio Projects\Ingreso producto\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Ingreso producto.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ingreso producto" Source="Ingreso producto.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ingreso producto.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ingreso producto.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ingreso producto" Source="Ingreso producto.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

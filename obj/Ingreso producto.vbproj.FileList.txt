@@ -1,0 +1,23 @@
+obj\Debug\Ingreso producto.exe
+obj\Debug\Ingreso producto.pdb
+bin\Ingreso producto.exe
+bin\Ingreso producto.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ingreso_producto.Form1.resources
+obj\Debug\Ingreso producto.vbproj.GenerateResource.Cache
+obj\Debug\Ingreso producto.xml
+bin\Ingreso producto.exe.config
+obj\Debug\Ingreso_producto.NuevoCliente.resources
+obj\Debug\Ingreso_producto.Ticket.rpt
+obj\Debug\Ingreso_producto.Reportes.resources
+obj\Debug\Ingreso_producto.Recarga.resources
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Ingreso_producto.Ticket.rpt
+obj\Release\Ingreso_producto.Form1.resources
+obj\Release\Ingreso_producto.NuevoCliente.resources
+obj\Release\Ingreso_producto.Recarga.resources
+obj\Release\Ingreso_producto.Reportes.resources
+obj\Release\Ingreso producto.vbproj.GenerateResource.Cache
+obj\Release\Ingreso producto.exe
+obj\Release\Ingreso producto.xml
+bin\Ingreso producto.pdb
